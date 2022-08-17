@@ -1,6 +1,8 @@
 # Personal Portfolio ✨ 
 
-### jaydoshi.github.io
+###### check it out,
+
+### [My Personal Website](https://jaydoshi2010.github.io) 
 
 ⭐ **Star me on GitHub** - it helps...!!!
 
