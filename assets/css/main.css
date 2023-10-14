@@ -682,7 +682,8 @@ input, select, textarea {
 			display: block;
 			margin-left: auto;
 			margin-right: auto;
-			width: 110px;
+			width: 100px;
+			height: 125px;
 		}
 
 			.image.main img {
